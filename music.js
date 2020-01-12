@@ -19,7 +19,7 @@ window.onload = loadSong;
 
 //Loading the songs from the drive
 function loadSong() {
-	song.src = "/home/shreemay/Desktop/music/" + songs[currentsong];
+	song.src = "music" + songs[currentsong];
 	songTitle.textContent = (currentsong + 1)+"." +songs[currentsong];
 	nextSong.innerHTML = "<b>Next Song: </b>" + songs[currentsong + 1 % songs.length];
 	song.volume = volumeSlider.value;
