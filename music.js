@@ -1,8 +1,9 @@
-var songs=["Dil Chori Sada Ho Gaya.mp3","Morni Banke.mp3",
-			"Bom Diggy Diggy.mp3",
-			"Proper Patola - Namaste England.mp3","Bamb Song - Badshah ft. Sukhe.mp3",
-			"Urvashi - Yo Yo Honey Singh.mp3","Mera Wala Dance - Simmba.mp3",
-			"Ishare Tere Song - Guru Randhawa.mp3"];
+var songs=["Dil Chori Sada Ho Gaya.mp3","Jaani Tera Naa - Sunanda Sharma",
+	   		"Morni Banke",
+			"Bom Diggy Diggy",
+			"Proper Patola - Namaste England","Bamb Song - Badshah ft. Sukhe",
+			"Urvashi - Yo Yo Honey Singh","Mera Wala Dance - Simmba",
+			"Ishare Tere Song - Guru Randhawa"];
 
 
 var songTitle = document.getElementById('songTitle');
