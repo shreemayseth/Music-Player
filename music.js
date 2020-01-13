@@ -1,4 +1,4 @@
-var songs=["Dil Chori Sada Ho Gaya.mp3","Jaani Tera Naa - Sunanda Sharma",
+var songs=["Dil Chori Sada Ho Gaya","Jaani Tera Naa - Sunanda Sharma",
 	   		"Morni Banke",
 			"Bom Diggy Diggy",
 			"Proper Patola - Namaste England","Bamb Song - Badshah ft. Sukhe",
