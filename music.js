@@ -1,6 +1,7 @@
-var songs=["Dil Chori Sada Ho Gaya","Jaani Tera Naa - Sunanda Sharma",
+var songs=["Dil Chori Sada Ho Gaya",
 	   		"Morni Banke",
 			"Bom Diggy Diggy",
+	   		"Jaani Tera Naa - Sunanda Sharma",
 			"Proper Patola - Namaste England","Bamb Song - Badshah ft. Sukhe",
 			"Urvashi - Yo Yo Honey Singh","Mera Wala Dance - Simmba",
 			"Ishare Tere Song - Guru Randhawa"];
@@ -61,10 +62,10 @@ function showDuration() {
 function playorpause(img) {
 	if (song.paused){
 		song.play();
-			 $("#play img").attr("src","Pause.png");
+			 $("#play img").attr("src","icons/Pause.png");
 	}else{
 		song.pause();
-			 $("#play img").attr("src","Play.png");
+			 $("#play img").attr("src","icons/Play.png");
 	}
 }
 
