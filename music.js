@@ -3,6 +3,9 @@ var songs=["Dil Chori Sada Ho Gaya",
 			"Bom Diggy Diggy",
 	   		"Jaani Tera Naa - Sunanda Sharma",
 			"Proper Patola - Namaste England","Bamb Song - Badshah ft. Sukhe",
+	   		"Dill Ton Black - Jassie Gill n Badshah",
+	   		"Coca Cola - Luka Chuppi"
+	   		"Kamariya - Stree"
 			"Urvashi - Yo Yo Honey Singh","Mera Wala Dance - Simmba",
 			"Ishare Tere Song - Guru Randhawa"];
 
